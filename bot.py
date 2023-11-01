@@ -57,7 +57,6 @@ if __name__ == "__main__" :
         logging.info('Bot started')
 
 
-    dkbotz.run()
 
 # Removed Upper All Codes Because This is Not Required Now. 
 
