@@ -53,14 +53,15 @@ if __name__ == "__main__" :
         async for user in banned_users:
             temp.BANNED_USERS.append(user["user_id"])
         logging.info(LOG_STR)
-        await broadcast_admins(self, '** Bot started successfully **\n\nBot By @JayRaj8833')
+        await broadcast_admins(self, '** Bot started successfully **\n\nBot By @DKBOTZ')
         logging.info('Bot started')
 
 
+    dkbotz.run()
 
 # Removed Upper All Codes Because This is Not Required Now. 
 
-#SESSION = "JayRaj8833"
+#SESSION = "DKBOTZ"
 
 #class Bot(Client):
 
